@@ -1,0 +1,539 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+.gpd-header{
+  margin:0;
+}
+.gpd-divider{
+  height:3px;
+  margin:10px 10px 10px 10px;
+  background-color:rgba(0,0,0,0.05);
+}
+.gpd-navbar{
+  width:100%;
+}
+.gpd-navbar__menu{
+  display:none;
+}
+.gpd-navbar__item{
+  flex:0 1 auto;
+}
+.gpd-navbar__item-link{
+  color:inherit;
+  text-decoration:none;
+}
+#iqp7{
+  padding:0;
+  margin:0 0 0 0;
+}
+#i4cf{
+  flex:0 1 auto;
+  padding:5px 5px 5px 0;
+}
+#i6cso{
+  flex:0 1 auto;
+  color:#ffffff;
+}
+#iq1w7{
+  align-items:center;
+  min-height:auto;
+}
+#ix3lj{
+  background-image:url('https://images.pexels.com/photos/14526640/pexels-photo-14526640.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+  background-repeat:no-repeat;
+  background-position:center center;
+  background-attachment:scroll;
+  background-size:cover;
+  color:#ffffff;
+  min-height:auto;
+  max-width:auto;
+  position:static;
+}
+#iad9c{
+  text-transform:none;
+  font-size:72px;
+  color:#000000;
+  white-space:normal;
+  font-family:Verdana, Geneva, sans-serif;
+}
+#ihpt4{
+  padding:0 25px 0 25px;
+  color:#ffffff;
+}
+#i1ses{
+  border:2px solid rgb(255, 255, 255);
+  border-radius:24px 24px 24px 24px;
+  font-family:Verdana, Geneva, sans-serif;
+}
+#i9mf7{
+  font-family:Open Sans, sans-serif;
+  align-self:center;
+}
+#i303x{
+  padding:0;
+}
+#i1gq5{
+  justify-content:space-between;
+  align-items:center;
+  min-height:auto;
+  padding:10px 10px 10px 0;
+  font-family:Open Sans, sans-serif;
+}
+#ig4hf{
+  flex:0 1 auto;
+}
+#i6p7v{
+  width:35px;
+  height:35px;
+  cursor:pointer;
+  color:#000000;
+}
+#i25bl{
+  background-color:#508c54;
+}
+#iyxv5{
+  height:100%;
+  align-items:center;
+}
+#im4kr{
+  background-color:#F5F5F5;
+  padding:50px 0 50px 0;
+}
+#is7es{
+  font-family:Open Sans, sans-serif;
+}
+#ipt9i{
+  height:3px;
+  margin:10px 10px 10px 10px;
+}
+#ir4gt{
+  color:#ffffff;
+  background-color:#3c633f;
+  width:auto;
+  padding:35px 0 35px 0;
+}
+#ix2vp{
+  text-align:center;
+  color:rgba(255,255,255,0.28);
+  background-color:#3c633f;
+  max-width:auto;
+  height:50px;
+}
+#if1fe{
+  font-family:Verdana, Geneva, sans-serif;
+  position:absolute;
+  transform: translateX(-94.9375px) translateY(-24px);
+}
+#i3jzt2{
+  background-color:#508c54;
+  padding:25px 0 25px 0;
+}
+#i568uy{
+  color:#ffffff;
+  font-family:Open Sans, sans-serif;
+  text-align:center;
+  position:static;
+}
+#iv58w4{
+  color:#ffffff;
+  font-family:Verdana, Geneva, sans-serif;
+}
+#iq2r7k{
+  color:#ffffff;
+  font-family:Verdana, Geneva, sans-serif;
+}
+#i2kkud{
+  color:#ffffff;
+  font-family:Verdana, Geneva, sans-serif;
+}
+#ivmbm{
+  margin:0 30px 0 0;
+}
+#i5oapg{
+  display:inline-block;
+  padding:5px;
+  min-height:50px;
+  min-width:50px;
+  color:rgba(255,255,255,0.28);
+}
+#im48cr{
+  background-color:#F5F5F5;
+  font-family:Open Sans, sans-serif;
+  padding:25px 0 100px 0;
+  min-height:100vh;
+}
+#ihpt4:hover{
+  text-decoration:underline;
+}
+#ispus:hover{
+  color:#ffffff;
+}
+#indol:hover{
+  color:#ffffff;
+}
+#i9ot7{
+  margin:0 30px 0 0;
+}
+.gpd-navbar{
+  width:100%;
+}
+.gpd-navbar__menu{
+  display:none;
+}
+.gpd-navbar__item{
+  flex:0 1 auto;
+}
+.gpd-navbar__item-link{
+  color:inherit;
+  text-decoration:none;
+}
+body{
+  background-color:#000000;
+}
+.gpd-navbar{
+  width:100%;
+}
+.gpd-navbar__menu{
+  display:none;
+}
+.gpd-navbar__item{
+  flex:0 1 auto;
+}
+.gpd-navbar__item-link{
+  color:inherit;
+  text-decoration:none;
+}
+body{
+  background-color:#000000;
+}
+.gpd-navbar{
+  width:100%;
+}
+.gpd-navbar__menu{
+  display:none;
+}
+.gpd-navbar__item{
+  flex:0 1 auto;
+}
+.gpd-navbar__item-link{
+  color:inherit;
+  text-decoration:none;
+}
+body{
+  background-color:#000000;
+}
+.accordion-css{
+  padding:5px;
+}
+.accordion-css__trigger{
+  display:block;
+  padding:5px;
+  cursor:pointer;
+}
+.accordion-css__body{
+  max-height:0;
+  overflow:hidden;
+  transition:max-height 0.35s;
+}
+.accordion-css--empty{
+  padding:25px;
+}
+.accordion-css__input, [data-accordion-css-input]{
+  display:none;
+}
+.accordion-css__body--open, [data-accordion-css-input]:checked ~ [data-accordion-css-body]{
+  max-height:100vh;
+}
+#iku801{
+  margin:15px;
+}
+#ilgt1b{
+  width:auto;
+  font-family:Verdana, Geneva, sans-serif;
+  font-size:50px;
+}
+#indol{
+  font-family:Verdana, Geneva, sans-serif;
+}
+#ispus{
+  font-family:Verdana, Geneva, sans-serif;
+}
+#ii709r{
+  display:none;
+}
+#i3ms0k{
+  font-family:Verdana, Geneva, sans-serif;
+  font-size:16px;
+}
+#id00s4{
+  font-size:18.72px;
+  text-transform:uppercase;
+  font-family:Verdana, Geneva, sans-serif;
+  padding:0 0 5px 0;
+}
+#i856ql:hover{
+  color:#ffffff;
+}
+#i856ql{
+  font-family:Verdana, Geneva, sans-serif;
+}
+#igjvvk{
+  margin:0 30px 0 0;
+}
+.swiper-slider{
+  position:relative;
+}
+.swiper-nav{
+  background-image:none;
+}
+.swiper-container{
+  height:100%;
+}
+.swiper-slider .swiper-pagination-bullet-active{
+  background:currentColor !important;
+}
+.swiper-slider .swiper-pagination-progressbar-fill{
+  background-color:currentColor !important;
+}
+#itj2tl{
+  padding:30px 50px;
+  height:718px;
+  background-image:none;
+  background-repeat:repeat;
+  background-position:left top;
+  background-attachment:scroll;
+  background-size:auto;
+}
+#il46cp{
+  background-image:url('https://agro.bg/uploads/articles/big/articles__fd8c639df47447b48401e9c76024e883.webp?v=1');
+  background-repeat:no-repeat;
+  background-position:center center;
+  background-attachment:scroll;
+  background-size:contain;
+}
+#i6ervj{
+  background-image:url('https://static.blitz.bg/documents/newsimages/201212/20121215.qmblyyxmig.jpg');
+  background-repeat:no-repeat;
+  background-position:center center;
+  background-attachment:scroll;
+  background-size:contain;
+}
+#inun7a{
+  background-image:url('https://cache2.24chasa.bg/Images/Cache/238/Image_11554238_40_0.jpg');
+  background-repeat:no-repeat;
+  background-position:center center;
+  background-attachment:scroll;
+  background-size:contain;
+}
+#i642nf{
+  background-image:url('https://www.obekti.bg/sites/default/files/styles/article_gallery/public/images/shutterstock_1086691190.jpg?itok=9EzkkicK');
+  background-repeat:no-repeat;
+  background-position:center center;
+  background-attachment:scroll;
+  background-size:contain;
+}
+.gpd-navbar{
+  width:100%;
+}
+.gpd-navbar__menu{
+  display:none;
+}
+.gpd-navbar__item{
+  flex:0 1 auto;
+}
+.gpd-navbar__item-link{
+  color:inherit;
+  text-decoration:none;
+}
+.gpd-navbar{
+  width:100%;
+}
+.gpd-navbar__menu{
+  display:none;
+}
+.gpd-navbar__item{
+  flex:0 1 auto;
+}
+.gpd-navbar__item-link{
+  color:inherit;
+  text-decoration:none;
+}
+@media (max-width: 768px){
+  .gpd-navbar__menu{
+    display:block;
+  }
+  .gpd-navbar__items{
+    display:none;
+    width:100%;
+  }
+  .gpd-navbar__item{
+    flex:1 1 100%;
+  }
+  .gpd-navbar__items-grid{
+    flex-wrap:wrap;
+  }
+  .gpd-navbar__item-link{
+    width:100%;
+  }
+  #i6p7v{
+    color:#ffffff;
+  }
+  #iad9c{
+    font-size:62px;
+  }
+  #i9mf7{
+    padding:125px 5px 125px 5px;
+  }
+  #im4kr{
+    padding:100px 0 100px 0;
+  }
+  #i1ses:hover{
+    color:#ffffff;
+    background-color:#000000;
+  }
+  #ihpt4:hover{
+    color:#ffffff;
+  }
+  #i1ses{
+    border:0 solid rgb(255, 255, 255);
+  }
+  #ihpt4{
+    padding:0 0 0 0;
+  }
+  .gpd-navbar__menu{
+    display:block;
+  }
+  .gpd-navbar__items{
+    display:none;
+    width:100%;
+  }
+  .gpd-navbar__item{
+    flex:1 1 100%;
+  }
+  .gpd-navbar__items-grid{
+    flex-wrap:wrap;
+  }
+  .gpd-navbar__item-link{
+    width:100%;
+  }
+  .gpd-navbar__menu{
+    display:block;
+  }
+  .gpd-navbar__items{
+    display:none;
+    width:100%;
+  }
+  .gpd-navbar__item{
+    flex:1 1 100%;
+  }
+  .gpd-navbar__items-grid{
+    flex-wrap:wrap;
+  }
+  .gpd-navbar__item-link{
+    width:100%;
+  }
+  .gpd-navbar__menu{
+    display:block;
+  }
+  .gpd-navbar__items{
+    display:none;
+    width:100%;
+  }
+  .gpd-navbar__item{
+    flex:1 1 100%;
+  }
+  .gpd-navbar__items-grid{
+    flex-wrap:wrap;
+  }
+  .gpd-navbar__item-link{
+    width:100%;
+  }
+  #il46cp{
+    background-size:contain;
+    background-position:center center;
+    background-attachment:scroll;
+    background-repeat:no-repeat;
+    background-image:url('https://agro.bg/uploads/articles/big/articles__fd8c639df47447b48401e9c76024e883.webp?v=1');
+  }
+  #inun7a{
+    background-position:center center;
+    background-image:url('https://cache2.24chasa.bg/Images/Cache/238/Image_11554238_40_0.jpg');
+    background-repeat:no-repeat;
+    background-attachment:scroll;
+    background-size:contain;
+  }
+  #i6ervj{
+    background-position:center center;
+    background-image:url('https://static.blitz.bg/documents/newsimages/201212/20121215.qmblyyxmig.jpg');
+    background-repeat:no-repeat;
+    background-attachment:scroll;
+    background-size:contain;
+  }
+  .gpd-navbar__menu{
+    display:block;
+  }
+  .gpd-navbar__items{
+    display:none;
+    width:100%;
+  }
+  .gpd-navbar__item{
+    flex:1 1 100%;
+  }
+  .gpd-navbar__items-grid{
+    flex-wrap:wrap;
+  }
+  .gpd-navbar__item-link{
+    width:100%;
+  }
+  .gpd-navbar__menu{
+    display:block;
+  }
+  .gpd-navbar__items{
+    display:none;
+    width:100%;
+  }
+  .gpd-navbar__item{
+    flex:1 1 100%;
+  }
+  .gpd-navbar__items-grid{
+    flex-wrap:wrap;
+  }
+  .gpd-navbar__item-link{
+    width:100%;
+  }
+}
+@media (max-width: 415px){
+  #il46cp{
+    background-position:center center;
+    background-image:url('https://agro.bg/uploads/articles/big/articles__fd8c639df47447b48401e9c76024e883.webp?v=1');
+    background-repeat:no-repeat;
+    background-attachment:scroll;
+    background-size:contain;
+  }
+  #i6ervj{
+    background-position:center center;
+    background-repeat:no-repeat;
+    background-image:url('https://static.blitz.bg/documents/newsimages/201212/20121215.qmblyyxmig.jpg');
+    background-attachment:scroll;
+    background-size:contain;
+  }
+  #i642nf{
+    background-size:contain;
+    background-repeat:no-repeat;
+  }
+  #inun7a{
+    background-size:contain;
+    background-repeat:no-repeat;
+    background-image:url('https://cache2.24chasa.bg/Images/Cache/238/Image_11554238_40_0.jpg');
+    background-position:center center;
+    background-attachment:scroll;
+  }
+}
+@media (max-width: 375px){
+  #iad9c{
+    font-size:52px;
+  }
+}
